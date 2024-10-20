@@ -42,6 +42,6 @@ lifeexpectancy   191 non-null    float64
 두가지 변수에 대해서 단순한 EDA를 시행하였으며, 먼저 incomeperperson의 경우 대부분의 국가들은 소득이 작은 것을 확인할 수 있었음.
 ![image](https://github.com/user-attachments/assets/4501c588-f896-4948-adad-8096601713d6)
 
-두번째로 internetuserate의 경우 구간을 0~20, 20~40, 40~60, 60~80, 80~100 의 구간으로 나누어 해당 구간에 속하는 국가의 수를 확인하였으며, Internetuserate의 경우에도 대부분의 국가가 0~20% 구간에 속하는 것을 확인할 수 있었음.
+두번째로 internetuserate의 경우 구간을 다섯개의 구간으로 나누어 해당 구간에 속하는 국가의 수를 확인하였으며, Internetuserate의 경우에도 대부분의 국가가 0~20% 구간에 속하는 것을 확인할 수 있었음.
 ![image](https://github.com/user-attachments/assets/9f7f9718-2504-4ae9-8680-bb5c715bf5b8)
 
