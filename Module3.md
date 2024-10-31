@@ -13,5 +13,7 @@ Coursera Data Management and Visualization 과제
 ## 2단계: 빈도에 대한 분석  
 ![image](https://github.com/user-attachments/assets/114fcc22-58a6-4d77-a8ab-0479ae73b6ca)
 . 빈도표를 작성해보니 50세 이하는 4.7%, 51에서 60세는 15.12, 61에서 70세는 19.9%, 71에서 80세는 48.2%, 80세 이상은 12%로 나타남을 확인할 수 있었다.  
-
+. 나머지 2가지 변수에 대해서도 빈도표를 작성하였다.  
+![image](https://github.com/user-attachments/assets/3bfa13cd-08aa-4224-b320-feb9d6a0cfaa)
+![image](https://github.com/user-attachments/assets/361b9c37-e72c-4cf5-9efc-0d1b4d9e78ed)
 
