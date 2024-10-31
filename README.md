@@ -1,10 +1,10 @@
 Coursera Data Management and Visualization 과제
-## MODULE 1
-# 1단계: 작업할 데이터 집합을 선택 **Gapminder Codebook**
+# MODULE 1
+## 1단계: 작업할 데이터 집합을 선택 **Gapminder Codebook**
 . Gapminder는 세계 인구, 건강, 경제 등 다양한 사회 지표에 대한 데이터를 이해하기 쉽게 제공하는 비영리 단체 및 데이터 도구임
 . 저는 다양한 국가들의 통계에서 상관관계를 파악하기 위해 Gapminder의 코드북을 사용하기로 결정했습니다. 
 
-# 2단계: 연구 질문과 가설을 제시
+## 2단계: 연구 질문과 가설을 제시
 Gapminder Codebook을 살펴보면 다음의 열로 구성되어 있습니다.
 ![image](https://github.com/user-attachments/assets/a44ae182-beae-4897-ad0e-b23fce09547c)
 
@@ -23,7 +23,7 @@ Gapminder Codebook을 살펴보면 다음의 열로 구성되어 있습니다.
 
 **연구 가설 : 인터넷 사용 비율이 높을 경우 소득이 높을 것으로 추정되며, 소득이 높을경우 인터넷 기대 수명이 높을 것으로 예상됨**
 
-# 3단계: 문헌검토
+## 3단계: 문헌검토
 소득수준과 기대수명/인터넷 사용자비율에 대한 다양한 선행연구가 존재하며 몇가지 레퍼런스가 있어 아래와 같이 기록해둔다.  
 
 선행연구1 (The Impact of Internet Use on Income: The Case of Rural Ghana)  
